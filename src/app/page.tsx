@@ -43,16 +43,7 @@ export default function Home() {
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-3">
               <div className="relative">
-                <img 
-                  src="/public/siyahlogo.png" 
-                  alt="NAR24 Logo"
-                  className="h-12 w-auto transition-transform duration-300 hover:scale-110"
-                  onError={(e) => {
-                    // Fallback if logo doesn't load
-                    e.currentTarget.style.display = 'none';
-                    (e.currentTarget.nextElementSibling as HTMLElement)?.style.setProperty('display', 'flex');
-                  }}
-                />
+                
                 <div className="hidden w-12 h-12 bg-gradient-to-br from-orange-500 to-red-600 rounded-xl items-center justify-center shadow-lg">
                   <span className="text-white font-bold text-xl">N</span>
                 </div>
@@ -543,15 +534,7 @@ export default function Home() {
       <footer className="bg-black text-white py-8 px-6">
         <div className="container mx-auto text-center">
           <div className="flex items-center justify-center space-x-3 mb-4">
-            <img 
-              src="/public/siyahlogo.png" 
-              alt="NAR24 Logo"
-              className="h-8 w-auto"
-              onError={(e) => {
-                e.currentTarget.style.display = 'none';
-                (e.currentTarget.nextElementSibling as HTMLElement)?.style.setProperty('display', 'flex');
-              }}
-            />
+            
             <div className="hidden w-8 h-8 bg-gradient-to-br from-orange-500 to-red-600 rounded-lg items-center justify-center">
               <span className="text-white font-bold text-sm">N</span>
             </div>
