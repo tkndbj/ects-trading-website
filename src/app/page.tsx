@@ -117,7 +117,7 @@ export default function Home() {
           </div>
           <div className="animate-fade-in-up animation-delay-300">
             <p className="text-xl md:text-2xl text-gray-200 mb-8 leading-relaxed">
-              Kuzey Kıbrıs'ta teknoloji ile e-ticaret deneyimini yeniden tanımlıyoruz
+              Kuzey Kıbrıs&apos;ta teknoloji ile e-ticaret deneyimini yeniden tanımlıyoruz
             </p>
           </div>
           <div className="animate-fade-in-up animation-delay-600">
@@ -158,7 +158,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6 animate-fade-in-left">
               <p className="text-lg text-gray-700 leading-relaxed">
-                <strong>NAR24</strong>, Kuzey Kıbrıs'ta faaliyet gösteren öncü bir teknoloji şirketidir. E-ticaret sektöründe mobil ve web tabanlı yenilikçi çözümler geliştirerek, kullanıcılarına modern ve kullanıcı dostu alışveriş deneyimi sunmaktayız.
+                <strong>NAR24</strong>, Kuzey Kıbrıs&apos;ta faaliyet gösteren öncü bir teknoloji şirketidir. E-ticaret sektöründe mobil ve web tabanlı yenilikçi çözümler geliştirerek, kullanıcılarına modern ve kullanıcı dostu alışveriş deneyimi sunmaktayız.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
                 Teknolojinin gücünden yararlanarak, hem iOS hem de Android platformlarında mobil uygulama geliştirmenin yanı sıra, kapsamlı web sitesi çözümleri sunuyoruz. Misyonumuz, dijital ticaretin sınırlarını zorlamak ve müşterilerimize en iyi online alışveriş deneyimini yaşatmaktır.
@@ -330,7 +330,7 @@ export default function Home() {
                   <svg className="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9v-9m0-9v9" />
                   </svg>
-                  <span className="font-semibold">nar24.com'u ziyaret et</span>
+                  <span className="font-semibold">nar24.com&apos;u ziyaret et</span>
                   <svg className="w-4 h-4 ml-2 transform group-hover:translate-x-1 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
                   </svg>
