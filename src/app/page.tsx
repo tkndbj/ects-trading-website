@@ -447,7 +447,7 @@ export default function Home() {
                     </div>
                     <div>
                       <h4 className="font-semibold text-lg mb-1">Adres</h4>
-                      <p className="text-gray-300">Teknoloji Merkezi<br />Lefkoşa, Kuzey Kıbrıs<br />KKTC</p>
+                      <p className="text-gray-300">Teknoloji Merkezi<br />İskele, Kuzey Kıbrıs<br />KKTC</p>
                     </div>
                   </div>
 
@@ -459,7 +459,7 @@ export default function Home() {
                     </div>
                     <div>
                       <h4 className="font-semibold text-lg mb-1">Telefon</h4>
-                      <p className="text-gray-300">+90 392 123 45 67<br />+90 533 987 65 43</p>
+                      <p className="text-gray-300">+90 539 110 24 24</p>
                     </div>
                   </div>
 
